@@ -2,9 +2,7 @@
 
 > Enter a LeetCode username → get real stats, deterministic topic analysis, and an AI-generated 7-day study plan.
 
-## Screenshot
 
-*(Add screenshot/GIF here after first deploy)*
 
 ## Architecture (in 5 lines)
 
